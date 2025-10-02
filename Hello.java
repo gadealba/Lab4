@@ -1,3 +1,6 @@
-    public static void main(){
-        print("hello world!");
-    }
+Public class HelloWorld{
+    public static void main(String[] args){
+            System.out.println("hello World!");
+        }
+}
+    
